@@ -1,9 +1,9 @@
 
 [![nivlafx's github stats](https://github-readme-stats.vercel.app/api?username=nivlafx&theme=react&count_private=true&show_icons=true)](https://github.com/nivlafx) 
 
-![stat](https://github-readme-streak-stats.herokuapp.com/?user=nivlafx&theme=dark)
+[![stat](https://github-readme-streak-stats.herokuapp.com/?user=nivlafx&theme=dark)](https://github.com/nivlafx)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivlafx&theme=react&layout=compact&show_icons=true)](https://github.com/nivlafx)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivlafx&theme=react&layout=compact&show_icons=true)](https://github.com/nivlafx)
 
 <!--
 
